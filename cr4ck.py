@@ -1,4 +1,4 @@
-# Compiled By Khamdihi XD
+# Compiled By Sharil vz
 # Welcome kang rekode hamdal
 # udah pasti di jebol inimah :(
 import marshal
