@@ -1,1 +1,1 @@
-maaf scrip sedang di perbaiki
+print('maaf scrip sedang di perbaiki menjadi premium')
